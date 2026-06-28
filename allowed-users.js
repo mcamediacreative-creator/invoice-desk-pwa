@@ -16,9 +16,9 @@
 window.INVOICE_DESK_ID_AUTH_DOMAIN = "invoice-desk-pwa.app";
 
 window.INVOICE_DESK_ALLOWED_USERS = [
-  { id: "FUDHAIL", name: "Muhammad Fudhail", role: "Admin" },
-  { id: "ADMIN", name: "Admin", role: "Admin" },
-  { id: "STAFF01", name: "Staff 01", role: "Staff" }
+  { id: "DIL", name: "Muhammad Fudhail", role: "Admin" },
+  { id: "ARIF", name: "Arif", role: "Admin" },
+  { id: "DIN", name: "Din", role: "Staff" }
 ];
 
 window.INVOICE_DESK_ACCESS_OPTIONS = {
