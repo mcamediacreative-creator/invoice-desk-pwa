@@ -1,9 +1,0 @@
-{
-  "appId": "com.yourcompany.invoicedesk",
-  "appName": "InvoiceDesk",
-  "webDir": ".",
-  "bundledWebRuntime": false,
-  "server": {
-    "androidScheme": "https"
-  }
-}
