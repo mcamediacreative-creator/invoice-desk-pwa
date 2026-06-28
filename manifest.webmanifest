@@ -1,0 +1,24 @@
+{
+  "name": "Invoice Desk PWA",
+  "short_name": "InvoiceDesk",
+  "description": "HTML-based quotation, invoice and delivery order app.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#1f2937",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%231f2937'/%3E%3Ctext x='96' y='112' font-size='62' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'%3EID%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%231f2937'/%3E%3Ctext x='256' y='302' font-size='164' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'%3EID%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

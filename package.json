@@ -1,0 +1,22 @@
+{
+  "name": "invoice-desk-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTML-based quotation, invoice and delivery order PWA starter.",
+  "scripts": {
+    "serve": "npx http-server . -p 5173",
+    "cap:init": "npx cap init InvoiceDesk com.yourcompany.invoicedesk --web-dir .",
+    "cap:add:android": "npx cap add android",
+    "cap:add:ios": "npx cap add ios",
+    "cap:sync": "npx cap sync",
+    "cap:open:android": "npx cap open android",
+    "cap:open:ios": "npx cap open ios"
+  },
+  "devDependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "latest",
+    "http-server": "latest"
+  }
+}
